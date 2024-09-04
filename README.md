@@ -27,3 +27,4 @@ I'm a 20-year-old, passionate **Software Development Student** from Mexico. I ha
 ### 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/fernando-emanuel-mm/)
 - [Email](mailto:femm15.mm@gmail.com)
+- [CV](https://asset.cloudinary.com/dcojsdfgh/21259b5afe7586f8c2c5964ffc6916fc)
