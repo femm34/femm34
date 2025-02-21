@@ -3,21 +3,24 @@
 I'm a 20-year-old, passionate **Software Development Student** from Mexico. I have a deep love for programming and developing applications. My journey in software development is driven by curiosity and a desire to create impactful solutions.
 
 ### 🔭 Currently Learning
-- **Java**: Exploring advanced concepts like Thread Pool and multi-threading.
-- **React**: Diving into React context to manage state more effectively and build scalable applications.
+- **Java**: Exploring concepts like Thread Pool and multi-threading.
+- **Angular**: Diving into advanced concepts such as RxJS for reactive programming, optimizing application performance, and building complex forms and custom components.
 - **Spring Boot**: Focusing on writing clean, maintainable code and following industry best practices for software development.
+- **Apache Kafka**: Learning how to implement event-driven architectures, process real-time data streams, and ensure reliable message delivery in distributed systems.
+- **AWS**: Gaining knowledge in cloud infrastructure, deploying scalable applications, and using AWS services to optimize application performance.
 
 ### 🌱 Skills
-- **Languages**: JavaScript, Java, TypeScript, Python, Ruby.
-- **Frameworks**: NestJS, Spring Boot, React, Next.js.
+- **Languages**: Java, TypeScript/JavaScript, Python, Ruby.
+- **Frameworks**: Spring Boot, Angular, NestJS, React, Next.js.
 - **Tools**: Git, Docker, MySQL, Cloudinary, AWS (EC2, S3, Route53), Bash, Linux.
 
 ### 🚀 Experience
-- **Leadership**: Lead Full-Stack Developer at Creative Workers, where I significantly improved an application called IDGO, enhancing its functionality and user experience.
-- **Project Work**: Developed IDGO, a centralized platform for entrepreneurs to create personalized profiles, including features like social media links, product catalogs, and more.
+- **Full-Stack Developer C&A Systems**: Contributed to the development of a fintech application with a Java/Angular stack, leveraging AWS services, and utilizing a microservices architecture.
+- **Leadership**: Lead Full-Stack Developer at Creative Workers, where I significantly improved an application called IDGO, enhancing its functionality and user experience.  
+- **Project Work**: Developed IDGO, a centralized platform for entrepreneurs to create personalized profiles, including features like social media links, product catalogs, and more.  
 
 ### 🎸 Fun Facts
-- When I'm not coding, you might find me playing the guitar.
+- When I'm not coding, you might find me playing the guitar or with Chandy.
 - I'm a serious and focused individual, always striving to learn and grow.
 
 
